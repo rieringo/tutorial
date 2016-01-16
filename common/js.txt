@@ -1,1 +1,1 @@
-js dummy
+js2 dummy
